@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global customer service and support software market is estimated at **$25B to $55B** (projected to exceed $70B+ by 2030, compounding at 12–19% CAGR). The sector exhibits a **moderately concentrated, hybrid market structure**: multi-product enterprise giants (Salesforce, ServiceNow, Zendesk, HubSpot) concentrate large-scale corporate spend through unified CRM ecosystems and high switching costs, while the lower and mid-market remains **highly fragmented** with specialized point solutions competing aggressively on AI agent automation, omnichannel inboxes, and transparent seat economics.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Zendesk Support](https://www.zendesk.com/)**
-
-  **Enterprise support suite** with omnichannel ticketing and AI agents. **Pricing**: **Support Team $19/agent/month** (entry); **Suite Team $55/agent/month** (adds messaging, help center, AI); **Suite Professional $115/agent/month**; **Advanced AI add-on $50/agent/month** stacks on top . **Free tier**: **No free plan**; **14-day trial** on Suite Professional . **Best for**: teams wanting the most mature omnichannel support with optional AI—**trade-off**: add-ons stack quickly; Suite Team + Advanced AI reaches **$105/agent/month** .
-
-
-
-- **[Freshdesk](https://www.freshworks.com/freshdesk/)**
-
-  **Support ticketing** with Freddy AI and multi-channel inbox. **Pricing**: **Growth $19/agent/month** (annual); **Pro $49/agent/month**; **Enterprise quote-only**. **Free tier**: **No free plan on current pricing page**—the free tier shrank from unlimited agents (2022) to 10 (2023–24) to 2 (2025) and **disappeared by October 2026**; only a six-month offer for 1–2 agents existed in early 2026 . **Best for**: mid-market teams wanting comparable features to Zendesk at lower cost—**trade-off**: no viable free tier; 14-day trial on Enterprise only .
-
-
-
-- **[HubSpot Service Hub](https://www.hubspot.com/)**
-
-  **Support within HubSpot CRM** with tickets, knowledge base, and surveys. **Pricing**: **Free plan up to 2 users**; **Starter $20/seat/month**; **Professional $100/seat/month**; **Enterprise quote-only**. **Free tier**: Yes, 2 users on combined Free plan . **Best for**: HubSpot CRM users wanting support tied to customer records—**trade-off**: value depends on existing HubSpot investment; don't buy CRM just for Service Hub .
-
-
-
-- **[Salesforce Service Cloud](https://www.salesforce.com/)**
-
-  **Enterprise service platform** with case management and AI (Einstein). **Pricing**: Quote-only; per-user licensing. **Free tier**: None. **Best for**: large enterprises already on Salesforce needing deep CRM integration.
-
-
-
-- **[Intercom](https://www.intercom.com/)**
-
-  **AI-first support platform** with Fin AI Agent. **Pricing**: **Essential from $0.99/seat/month** (annual) plus **Fin at $0.99 per outcome**; **Advanced $85/seat/month**; **Expert $132/seat/month**; Copilot add-on **$29/agent/month**; Pro add-on **$100/month** . **Free tier**: No permanent free tier; trial available. **Best for**: teams wanting AI resolution priced per outcome—**trade-off**: seat + per-outcome costs stack; minimum monthly commitment on Fin.
-
-
-
-- **[Zoho Desk](https://www.zoho.com/desk/)**
-
-  **Support ticketing** within Zoho ecosystem. **Pricing**: **Express $9/user/month** (annual, 5-user cap); **Standard $20/user/month**; **Professional $35/user/month**; **Enterprise $50/user/month** . **Free tier**: **Free plan up to 5 agents** on Standard tier. **Best for**: SMBs wanting affordable ticketing with a genuine free tier—**trade-off**: Express capped at 5 users; advanced AI requires Enterprise.
-
-
-
-- **[Help Scout](https://www.helpscout.com/)**
-
-  **Email-first shared inbox** with optional AI. **Pricing**: **Free up to 5 users**; **Standard $25/user/month** (annual); **Plus $45/user/month**; **Pro $75/user/month**; **AI Answers $0.75/resolution** after 3-month free trial . **Free tier**: Yes, up to 5 users. **Best for**: teams wanting simple, email-centric support with a usable free tier—**trade-off**: AI resolution metered separately; no complex workflow builder.
-
-
-
-- **[Gladly](https://www.gladly.com/)**
-
-  **Retail-focused customer service platform** with lifelong conversation history. **Pricing**: **Enterprise-only starting at $100K+/year**; **Hero from $180/agent/month** (min 10 users); **Superhero $210/agent/month** (min 45 users); **Sidekick AI $0.60/resolution** . **Free tier**: None. **Best for**: large retail and DTC brands wanting unified customer history—**trade-off**: enterprise procurement; excludes SMBs.
-
-
-
-- **[Kustomer](https://www.kustomer.com/)**
-
-  **CX platform** with AI and omnichannel messaging. **Pricing**: Quote-only; annual contracts. Software Advice lists starting at **$89/month** but official pricing requires sales engagement . **Free tier**: None. **Best for**: mid-market to enterprise teams wanting unified customer data—**trade-off**: quote-only; no self-serve.
-
-
-
-- **[ServiceNow CSM](https://www.servicenow.com/)**
-
-  **Enterprise customer service management** on the ServiceNow platform. **Pricing**: **Per fulfiller seat** (people who work cases); illustrative **~$100/fulfiller/month** = **$720K/year for 600 seats**; **Now Assist AI** at **~$75/user/month** for generative tier . **Free tier**: None. **Best for**: large enterprises already on ServiceNow wanting CSM integrated with ITSM—**trade-off**: complex licensing; portal deflection can reduce seat needs.
-
-
+| Platform | Company Scale (Revenue / Valuation) | Pricing (Specific Starting Tiers) | Free Tier Limits / Free Trial Limits | Key Focus & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Service Cloud](https://www.salesforce.com/)** | **~$200B Market Cap** ($41.5B FY26 Revenue) | **Starter Suite at $25/user/month** (annual/monthly); Pro Suite at $100/user/month; Enterprise at $175/user/month; Unlimited at $350/user/month | **No permanent free tier**; **30-day free trial** with case management and CRM capabilities (no credit card required) | Enterprise service platform deeply unified with Salesforce CRM, case routing, and Agentforce |
+| **[ServiceNow CSM](https://www.servicenow.com/)** | **~$160B Market Cap** ($14.5B+ ARR / 2026 pacing) | **Fulfiller seats from ~$100–$140/fulfiller/month** (annual contract; sales quoted); Now Assist AI add-on from ~$75/user/month | **No standard free trial or self-serve free tier**; testing requires sales-assisted POC demo or developer sandbox (PDI) restricted to non-production code | Large enterprises integrating customer service operations tightly with IT service management (ITSM) |
+| **[Zoho Desk](https://www.zoho.com/desk/)** | **~$12.5B Valuation** ($1.5B FY25 Revenue, bootstrapped) | **Express at $9/user/month** (annual billing, 5-user cap); Standard at $20/user/month; Professional at $35/user/month; Enterprise at $50/user/month | **Free forever plan: capped at 3 agents**, 1 email inbox, basic web forms, private knowledge base (no live chat or SLA automations) | Cost-effective customer ticketing for SMBs and organizations integrated into the Zoho ecosystem |
+| **[HubSpot Service Hub](https://www.hubspot.com/)** | **~$11.2B Market Cap** ($3.7B 2026 ARR) | **Starter at $20/seat/month** ($15/seat/month annual); Professional at $100/seat/month; Enterprise at $150/seat/month | **Free forever plan: up to 2 users**, 1 shared inbox, 1 ticket pipeline, 1,000 CRM contacts, with HubSpot branding | Growing businesses wanting customer support tickets unified with inbound marketing and CRM records |
+| **[Zendesk Support](https://www.zendesk.com/)** | **~$10.2B Buyout Valuation** (~$2.0B ARR) | **Support Team at $19/agent/month** (annual); Suite Team at $55/agent/month; Suite Growth at $89/agent/month; Suite Professional at $115/agent/month | **No permanent free tier**; **14-day free trial** of Suite Professional (extendable once up to 28 days upon admin request; no credit card required) | Mature, omnichannel support with extensive integration marketplace and AI resolution add-ons |
+| **[Freshdesk](https://www.freshworks.com/freshdesk/)** | **~$4.0B Market Cap** (~$900M ARR / TTM) | **Growth at $19/agent/month** ($15/agent/month annual); Pro at $49/agent/month; Enterprise at $79/agent/month | **No permanent free tier on current pricing page**; **14-day free trial** of Enterprise tier (API capped at 50 calls/min) or 6-month startup evaluation capped at 2 agents | Mid-market teams wanting modern multi-channel support and Freddy AI deflection at lower entry costs than Zendesk |
+| **[Intercom](https://www.intercom.com/)** | **~$3.6B Valuation** (~$400M ARR; acquired by Salesforce) | **Essential from $39/seat/month** (or entry promotions from $0.99/seat/mo) + **Fin AI at $0.99/resolution**; Advanced at $85/seat/month; Expert at $132/seat/month | **No permanent free tier**; **14-day free trial** of platform and Fin AI agent (cardless, optional 7-day self-serve extension) | AI-first customer engagement prioritizing outcome-based autonomous deflection and conversational messenger |
+| **[Gladly](https://www.gladly.com/)** | **~$275M Valuation** (~$48M ARR) | **Hero at $180/agent/month** (enforces minimum 10 users = $1,800/mo); Superhero at $210/agent/month (min 45 users); Sidekick AI at $0.60/resolution | **No self-serve free tier or public trial**; guided sales pilot/POC only with annual commitments typically starting at $100K+/year | Enterprise retail and DTC eCommerce brands needing unified customer conversation timelines across all channels |
+| **[Kustomer](https://www.kustomer.com/)** | **~$250M Valuation** (~$30M ARR) | **Enterprise at $89/user/month** (annual contract only, 8-seat minimum = $712/mo); Ultimate at $139/user/month; AI add-on at ~$0.60/conversation | **No permanent free tier and no self-serve free trial**; evaluation requires a scheduled live demo with sales engineering | Mid-market to high-volume CX teams requiring CRM data timelines and AI-driven automation |
+| **[Help Scout](https://www.helpscout.com/)** | **~$35M ARR** (Private / Bootstrapped-leaning) | **Standard at $25/user/month** ($20/user/month annual); Plus at $45/user/month; Pro at $75/user/month; AI Answers at $0.75/resolution | **Free forever plan: up to 5 users**, 1 shared inbox, 1 Docs site (up to 10 articles), capped at **100 contacts helped/month** (3-month trial of Scout AI) | Small to mid-sized teams wanting a clean, collaborative email-first shared inbox and straightforward knowledge base |
 
 ## Open-Source GitHub Projects
 
