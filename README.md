@@ -1,50 +1,55 @@
-# Awesome-Customer-Service-Support-Platform
+<div align="center">
 
-# Awesome-Customer-Service-Support-Platform
+<img src="./assets/banner.svg" alt="Awesome Customer Service &amp; Support Platforms Banner" width="100%" />
 
-**Top Customer Service Support Platform (Opensource) 🌟 Star if you like it! 🌟**
+# 🌟 Awesome Customer Service & Support Platforms 🌟
 
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Customer-Service-Support-Platform/graphs/commit-activity)
+[![Last Commit](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Customer-Service-Support-Platform?style=flat-square)](https://github.com/ishandutta2007/Awesome-Customer-Service-Support-Platform/commits/main)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
+**🚀 Curated Directory of Open-Source Helpdesks, Omnichannel SaaS Suites, AI Ticketing & Self-Hosted CX Infrastructure**
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+*Focused on Shared Inboxes 📥, SLA Management ⏱️, Automated AI Deflection 🤖, and Helpdesk Workflows 🛠️*
 
-*Focused on Shared Inboxes, Ticketing, SLAs, AI Resolution & Self-Hosted Helpdesk Infrastructure*
+📅 **Last updated: November 2026**
 
-**Last updated: November 2026**
+</div>
 
+---
 
+## 📖 Overview & Ecosystem Guide
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Customer Service & Support Platforms**. These tools enable teams to manage conversations across email, chat, and social channels, resolve tickets against SLAs, and scale support with AI—from fully managed enterprise suites with outcome-based AI pricing to self-hosted helpdesks that give organizations complete ownership of their support data.
+This repository tracks top-tier **open-source projects** 🔓 and leading **SaaS platforms** ☁️ for **Customer Service & Support Platforms**. Modern support infrastructure empowers customer success, IT, and operations teams to unify multi-channel conversations (Email, Live Chat, WhatsApp, SMS, Social Media), orchestrate automated ticket routing, fulfill strict Service Level Agreements (SLAs), and leverage autonomous AI agents for high-resolution ticket deflection.
 
+Whether you require a **fully managed enterprise CX suite** with outcome-based generative AI pricing or a **production-ready self-hosted helpdesk** ensuring 100% data sovereignty and zero seat fees, this directory provides transparent benchmarks to guide your software architecture decisions.
 
+---
 
-**Examples** include Zendesk Support, Freshdesk, HubSpot Service Hub, Salesforce Service Cloud, Intercom, Zoho Desk, Help Scout, Gladly, Kustomer, and ServiceNow CSM (the category leaders in commercial space).
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Support Platforms](#️-saas--hosted-support-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosted ticketing, shared inboxes, and open support infrastructure. **Critical note**: The open-source helpdesk landscape is mature—**Frappe Helpdesk** offers unlimited agents with SLAs on the Frappe stack , **OTOBO** continues the OTRS ITSM lineage , and **Request Tracker** provides granular per-queue permissions . No open-source project matches Zendesk's omnichannel polish or Gladly's retail-focused CX depth, but for core ticketing and SLAs, the open-source options are production-proven.
+## 📊 Sector Overview & Market Dynamics
 
+The global customer service and support software market is estimated between **$25B and $55B** (projected to surpass $70B+ by 2030, compounding at 12–19% CAGR). The sector exhibits a **moderately concentrated, hybrid market structure**: multi-product enterprise giants (Salesforce, ServiceNow, Zendesk, HubSpot) concentrate large-scale corporate spend through unified CRM ecosystems and high switching costs, while the lower and mid-market remains **highly fragmented** with specialized point solutions competing aggressively on AI agent automation, omnichannel inboxes, and transparent seat economics.
 
+---
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+## ☁️ SaaS & Hosted Support Platforms
 
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global customer service and support software market is estimated at **$25B to $55B** (projected to exceed $70B+ by 2030, compounding at 12–19% CAGR). The sector exhibits a **moderately concentrated, hybrid market structure**: multi-product enterprise giants (Salesforce, ServiceNow, Zendesk, HubSpot) concentrate large-scale corporate spend through unified CRM ecosystems and high switching costs, while the lower and mid-market remains **highly fragmented** with specialized point solutions competing aggressively on AI agent automation, omnichannel inboxes, and transparent seat economics.
-
-## SaaS/Hosted Platforms
-
-| Platform | Company Scale (Revenue / Valuation) | Pricing (Specific Starting Tiers) | Free Tier Limits / Free Trial Limits | Key Focus & Best For |
+| 🏢 Platform | 💰 Company Scale (Revenue / Valuation) | 🏷️ Pricing (Specific Starting Tiers) | 🎁 Free Tier Limits / Free Trial Limits | 🎯 Key Focus & Best For |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Salesforce Service Cloud](https://www.salesforce.com/)** | **~$200B Market Cap** ($41.5B FY26 Revenue) | **Starter Suite at $25/user/month** (annual/monthly); Pro Suite at $100/user/month; Enterprise at $175/user/month; Unlimited at $350/user/month | **No permanent free tier**; **30-day free trial** with case management and CRM capabilities (no credit card required) | Enterprise service platform deeply unified with Salesforce CRM, case routing, and Agentforce |
 | **[ServiceNow CSM](https://www.servicenow.com/)** | **~$160B Market Cap** ($14.5B+ ARR / 2026 pacing) | **Fulfiller seats from ~$100–$140/fulfiller/month** (annual contract; sales quoted); Now Assist AI add-on from ~$75/user/month | **No standard free trial or self-serve free tier**; testing requires sales-assisted POC demo or developer sandbox (PDI) restricted to non-production code | Large enterprises integrating customer service operations tightly with IT service management (ITSM) |
@@ -57,92 +62,124 @@ The global customer service and support software market is estimated at **$25B t
 | **[Kustomer](https://www.kustomer.com/)** | **~$250M Valuation** (~$30M ARR) | **Enterprise at $89/user/month** (annual contract only, 8-seat minimum = $712/mo); Ultimate at $139/user/month; AI add-on at ~$0.60/conversation | **No permanent free tier and no self-serve free trial**; evaluation requires a scheduled live demo with sales engineering | Mid-market to high-volume CX teams requiring CRM data timelines and AI-driven automation |
 | **[Help Scout](https://www.helpscout.com/)** | **~$35M ARR** (Private / Bootstrapped-leaning) | **Standard at $25/user/month** ($20/user/month annual); Plus at $45/user/month; Pro at $75/user/month; AI Answers at $0.75/resolution | **Free forever plan: up to 5 users**, 1 shared inbox, 1 Docs site (up to 10 articles), capped at **100 contacts helped/month** (3-month trial of Scout AI) | Small to mid-sized teams wanting a clean, collaborative email-first shared inbox and straightforward knowledge base |
 
-## Open-Source GitHub Projects
+---
 
+## 🔓 Open-Source GitHub Projects
 
+All open-source repositories below are sorted in **descending order by GitHub stargazers count** ⭐. Each project includes a real-time badge linking directly to its repository stargazers page.
 
-- **[Frappe Helpdesk](https://github.com/frappe/helpdesk)**
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+  - **License**: MIT 📜 | **Tech Stack**: Ruby on Rails, Vue.js, PostgreSQL, Redis 🛠️
+  - **Description**: Leading open-source omnichannel customer engagement suite and live chat platform. Unifies conversations from website live chat, WhatsApp, Twitter/X, Facebook, Telegram, and Email into a single collaborative shared inbox. Features mobile apps (iOS & Android), agent automations, CSAT surveys, and custom webhook integrations.
+  - **Best For**: Modern teams needing a true open-source alternative to Intercom, Crisp, or Zendesk Chat.
 
-  **Open-source ticketing and customer support app** (AGPL-3.0) — **the most practical open-source helpdesk for teams already on Frappe/ERPNext**, with **3.4k stars** and active releases (v1.31.0 October 2026) . **Features**: **Tickets, SLAs, and customer portal** with **no per-agent fees**; SLAs with business hours and auto-assignment by priority/type/team/workload; **unlimited agents**; sign-in via Google, Microsoft, or custom OIDC through Frappe; **customer sync with ERPNext** and call logging via Twilio/Exotel . **Tech stack**: Python (Frappe Framework), Vue.js, MariaDB/Redis. **Deploy**: Self-hosted (Frappe bench) or **Frappe Cloud at $5/month** . **Trade-off**: **No live chat or WhatsApp channel**; self-hosting requires the full Frappe stack (MariaDB, Redis, bench) . **Best for**: ERPNext/Frappe teams wanting support tickets integrated with their ERP—especially those wanting unlimited agents without seat fees.
+- **[UVdesk Community](https://github.com/uvdesk/community-skeleton)** [![GitHub stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)
+  - **License**: OSL-3.0 📜 | **Tech Stack**: PHP, Symfony Framework, MySQL 🛠️
+  - **Description**: Extensible open-source helpdesk ticketing system designed for multi-channel email piping and ticket workflows. Offers unlimited agents, unlimited tickets, team dispatch workflows, and knowledge base portals with customizable themes.
+  - **Best For**: Small-to-medium teams looking for a reliable PHP-based helpdesk architecture with no licensing ceilings.
 
+- **[GLPI Project](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)
+  - **License**: GPL-3.0 📜 | **Tech Stack**: PHP, MariaDB/MySQL, JavaScript 🛠️
+  - **Description**: Comprehensive open-source IT Service Management (ITSM) and Service Desk platform compliant with ITIL best practices. Combines incident/request ticketing, problem tracking, change management, asset management (CMDB), and SLA escalation tracking.
+  - **Best For**: Enterprise IT departments and universities needing mature ITIL helpdesk and asset lifecycle tracking.
 
+- **[Papercups](https://github.com/papercups-io/papercups)** [![GitHub stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)
+  - **License**: MIT 📜 | **Tech Stack**: Elixir, Phoenix Framework, React, PostgreSQL 🛠️
+  - **Description**: Developer-friendly open-source live customer messaging platform. Provides embeddable chat widgets for React, HTML, React Native, and Flutter, with direct Slack and Mattermost inbox synchronization.
+  - **Best For**: Software startups and developer-centric teams that want to embed live support chat directly into their web/mobile apps.
 
-- **[OTOBO](https://github.com/RotherOSS/otobo)**
+- **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
+  - **License**: AGPL-3.0 📜 | **Tech Stack**: Ruby on Rails, PostgreSQL, Elasticsearch 🛠️
+  - **Description**: Production-grade web-based customer support system and shared inbox. Features omnichannel integration (Email, Chat, Phone/CTI, Twitter, Facebook), real-time ticket updates (collision detection), fine-grained role-based permissions, SLA tracking, and audit logs.
+  - **Best For**: Medium-to-large service desks wanting a slick, modern web UI with comprehensive telephone and social integration.
 
-  **Open-source ticketing and IT service management** (GPL-3.0) — **the maintained fork of OTRS**, continuing the codebase with free ITSM packages . **Features**: **ITSM add-on packages free to download**; OpenID Connect, LDAP, and RADIUS sign-in in free code; runs on MariaDB, MySQL, PostgreSQL, or Oracle; **customer self-service portal included** . **Tech stack**: Perl, Apache/Nginx. **Deploy**: Self-hosted. **Trade-off**: **Production servers need 8 GB RAM minimum (16 GB recommended)**; vendor support starts at **€3,900/year**; no audit log beyond ticket/settings history . **Best for**: IT and service teams wanting an OTRS-style service desk without license fees—especially those needing ITSM features.
+- **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub stars](https://img.shields.io/github/stars/freescout-help-desk/freescout)](https://github.com/freescout-help-desk/freescout/stargazers)
+  - **License**: AGPL-3.0 📜 | **Tech Stack**: PHP, Laravel, MySQL 🛠️
+  - **Description**: Lightweight, self-hosted shared inbox and helpdesk written on Laravel. Serves as a 100% community-driven alternative to Help Scout and Zendesk with minimal resource footprints (runs easily on $5 VPS nodes). Supported by an extensive module ecosystem (LDAP, Telegram, WhatsApp, Knowledge Base).
+  - **Best For**: Budget-conscious teams and agencies looking for a fast, clean email-first shared inbox.
 
+- **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)
+  - **License**: GPL-2.0 📜 | **Tech Stack**: PHP, MySQL 🛠️
+  - **Description**: Battle-tested, widely deployed open-source customer support ticketing engine. Seamlessly routes incoming email, phone, and web form inquiries into a unified web interface with custom ticket fields, ticket filtering rules, auto-responses, and staff collision prevention.
+  - **Best For**: Organizations needing proven, straightforward ticket dispatching that runs on standard LAMP hosting environments.
 
+- **[Chaskiq](https://github.com/chaskiq/chaskiq)** [![GitHub stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers)
+  - **License**: AGPL-3.0 📜 | **Tech Stack**: Ruby on Rails, React, PostgreSQL 🛠️
+  - **Description**: Full-featured open-source conversational marketing and support automation platform. Combines live messenger widgets, proactive in-app customer tours, automated bot workflows, video calls, and email newsletters.
+  - **Best For**: SaaS companies looking for an all-in-one Intercom replacement for onboarding, outbound messaging, and inbound customer care.
 
-- **[Request Tracker (RT)](https://github.com/bestpractical/rt)**
+- **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)
+  - **License**: AGPL-3.0 📜 | **Tech Stack**: Python (Frappe Framework), Vue.js 3, MariaDB, Redis 🛠️
+  - **Description**: Modern, open-source ticketing and customer service platform built on the Frappe framework. Features ticket assignment rules by workload/skills, SLA management with working hours, customer self-service portal, and seamless bi-directional integration with ERPNext.
+  - **Best For**: Businesses already using Frappe/ERPNext who require unified customer data and zero per-seat licensing fees.
 
-  **Open-source ticket tracker** (GPL-2.0) — **the veteran for granular per-queue permissions**, maintained by Best Practical, with **1.2k stars** and v6.0.3 (May 2026) . **Features**: **Rights per queue, group, and role**; **asset tracking built in**; **REST 2 API** in core; **RT 6 lets admins rearrange ticket page layouts** . **Tech stack**: Perl, MySQL/PostgreSQL/Oracle/SQLite. **Deploy**: Self-hosted (Perl source install). **Trade-off**: **No official Docker image for production**; **SSO needs a web server module** (no built-in SAML/OIDC); cloud RT needs 5+ users on annual plan . **Best for**: IT and operations teams needing detailed per-queue rights and full change history—especially those comfortable with Perl.
+- **[Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat)** [![GitHub stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=social&color=white)](https://github.com/LiveHelperChat/livehelperchat/stargazers)
+  - **License**: Apache-2.0 📜 | **Tech Stack**: PHP, MySQL, Node.js / React 🛠️
+  - **Description**: Dedicated open-source live support chat application supporting desktop & mobile apps, Telegram, WhatsApp, Twilio, and Facebook Messenger. Includes voice/video calls, proactive automated triggers, canned responses, and bot builders.
+  - **Best For**: Companies seeking standalone, ultra-reliable live chat customer support with custom bot integration capabilities.
 
+- **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)
+  - **License**: Apache-2.0 📜 | **Tech Stack**: Node.js, MongoDB, Elasticsearch 🛠️
+  - **Description**: Clean, modern open-source helpdesk solution built on Node.js and MongoDB. Provides real-time notifications via WebSockets, ticket management, custom SLA definitions, and knowledge base documentation.
+  - **Best For**: Developers and teams seeking a 100% JavaScript/Node.js tech stack for support ticketing.
 
+- **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)
+  - **License**: GPL-2.0 📜 | **Tech Stack**: Perl, PostgreSQL/MySQL 🛠️
+  - **Description**: Veteran, industrial-strength ticketing engine used by Fortune 500 corporations, universities, and government agencies worldwide. Renowned for granular role-based per-queue permissions, asset tracking, full change auditing, and RESTful APIs.
+  - **Best For**: High-security, enterprise, and IT operations teams requiring granular queue permissions and audit compliance.
 
-### Additional Strong Open-Source Options
-
-
-
-- **UVdesk** — PHP/Symfony helpdesk (OSL-3.0) with **unlimited agents, teams, and mailboxes** in free edition; email tickets + customer portal + knowledge base . **Note**: **No SSO for agents, no audit log**; **no new release since v1.1.8 (September 2025)** . **Best for**: small teams on PHP hosting needing email ticketing and self-service portal.
-
-- **Libredesk** — Open-source support inbox in Go (single binary) for email and live chat . **Note**: **New and worth watching**—verify maturity before production. **Best for**: teams wanting a lightweight Go-based helpdesk.
-
-
-
-**Frameworks for building custom systems**: Choose **Frappe Helpdesk** for unlimited agents on Frappe/ERPNext, **OTOBO** for ITSM lineage, and **Request Tracker** for granular permissions—each serves a distinct operational profile. **None of these match Zendesk's omnichannel polish or Gladly's retail CX depth**, but for core ticketing and SLAs, the open-source options cover most needs.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Customer service platforms handling support conversations must comply with data protection regulations (GDPR, CCPA, etc.) and implement appropriate access controls for customer data.
-
-- **The "omnichannel suite" vs. "email-first inbox" vs. "enterprise CX platform" vs. "ITSM" distinction is critical.** **Zendesk, Freshdesk, HubSpot Service Hub, Salesforce Service Cloud, Intercom, Zoho Desk, and Help Scout** are **support platforms**—they manage tickets and conversations across channels. **Gladly and Kustomer** are **CX platforms**—they unify customer history with AI orchestration. **ServiceNow CSM** is **enterprise CSM**—it integrates with ITSM and platform workflows. **Frappe Helpdesk, OTOBO, and Request Tracker** are **self-hosted helpdesks**—you own the infrastructure. **Choose based on whether you need omnichannel, email-first simplicity, enterprise CX, or ITSM integration.**
-
-- **Freshdesk's free tier is gone.** The free plan shrank from unlimited agents (2022) to 10 (2023–24) to 2 (2025) and **disappeared from the pricing page by October 2026**—only a six-month offer for 1–2 agents existed in early 2026 . **Do not plan a free Freshdesk deployment.**
-
-- **Help Scout and Zoho Desk are the only platforms with genuine free tiers.** Help Scout: **free up to 5 users** . Zoho Desk: **free up to 5 agents** on Standard . **HubSpot Service Hub is free up to 2 users** . **For small teams, these are the pragmatic starting points.**
-
-- **Gladly is enterprise-only with $100K+ commitments.** Hero starts at **$180/agent/month with a 10-user minimum**; Superhero at **$210/agent/month with 45-user minimum** . **Do not evaluate for SMBs.**
-
-- **ServiceNow CSM licensing is per fulfiller, not per user.** Only people who work cases consume seats; portal and Virtual Agent deflections reduce licensing needs . **Model your fulfiller count carefully—this is where costs are won or lost.**
-
-- **Frappe Helpdesk is the best open-source option for unlimited agents.** No per-agent fees, SLAs with business hours, ERPNext sync, and **$5/month Frappe Cloud hosting** . **The trade-off**: no live chat or WhatsApp; requires the Frappe stack for self-hosting.
-
-- **OTOBO needs 8 GB RAM minimum**—plan infrastructure accordingly. **Request Tracker has no official Docker image** and SSO requires web server modules .
-
-- **Pricing opacity varies.** Zendesk, Freshdesk, HubSpot, Intercom, Zoho Desk, and Help Scout publish tiered pricing. Gladly requires enterprise engagement. Kustomer and ServiceNow require sales contact. **Validate with direct vendor conversations against your agent count and channel mix.**
-
-- Self-hosted open-source solutions require proper infrastructure (Frappe stack for Helpdesk, 8 GB+ RAM for OTOBO), security hardening, and ongoing maintenance. **Support data includes customer PII and conversation history**—ensure your deployment meets your organization's privacy and compliance requirements before migrating production support.
-
-
+- **[OTOBO](https://github.com/RotherOSS/otobo)** [![GitHub stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers)
+  - **License**: GPL-3.0 📜 | **Tech Stack**: Perl, MariaDB/MySQL/PostgreSQL, Docker 🛠️
+  - **Description**: The official community fork of OTRS, carrying forward open-source IT Service Management. Includes free ITSM packages, a responsive customer self-service portal, LDAP/RADIUS authentication, and Docker-compose deployments.
+  - **Best For**: IT departments and corporate service organizations looking for an active, cost-free OTRS ITSM alternative.
 
 ---
 
+## 🤝 How to Contribute
 
+Contributions are warmly welcomed! 🌟 To add a new platform or update existing benchmarks:
 
-**Made for support leads, IT teams, and organizations building transparent customer service solutions.**
+1. **Fork the repository** 🍴.
+2. Create a new branch: `git checkout -b feature/add-new-platform`.
+3. Add or edit entries in [README.md](README.md) following the established format:
+   - Provide verified, specific tier pricing (no ambiguous terms like "Custom" or "Usage-based").
+   - Include company scale or verified GitHub star badges.
+   - Mention specific free tier limits and trial limits.
+4. Verify all markdown links and ensure tables render cleanly.
+5. Commit your changes: `git commit -m "Add [Platform Name] customer support tool"`.
+6. Push to your branch and submit a **Pull Request** 🚀.
 
-Let's make Customer Service & Support Platforms more open, data-driven, and resolution-friendly.
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated directory helpful for evaluating customer support tools and open-source infrastructure:
+
+- ⭐ **Star the repo** on GitHub to help others discover it.
+- 🍴 **Fork it** to contribute new benchmarks or create tailored internal comparison sheets.
+- 📢 **Share it** on Twitter/X, LinkedIn, or developer forums.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing research and maintenance, feel free to sponsor the project via the **[GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)**! Every bit of support is deeply appreciated! 💖
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Customer-Service-Support-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Customer-Service-Support-Platform&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This is a **community-curated, independent repository** — inclusion does not represent an endorsement or commercial partnership.
+- Customer support systems frequently handle sensitive customer data, personally identifiable information (PII), and intellectual property. Ensure all self-hosted deployments or hosted vendors comply with applicable data protection regulations (GDPR, HIPAA, CCPA, SOC 2).
+- Vendor pricing, free trial policies, and tier inclusions are subject to change by vendors over time; always confirm directly with official vendor pricing tables before making purchasing decisions.
+
+---
+
+<div align="center">
+
+**Made with ❤️ for customer support engineers, IT leaders, and open-source advocates.**
+
+*Let's build more responsive, transparent, and user-friendly support operations together.* 🚀
+
+</div>
