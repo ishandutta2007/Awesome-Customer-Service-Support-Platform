@@ -68,67 +68,67 @@ The global customer service and support software market is estimated between **$
 
 All open-source repositories below are sorted in **descending order by GitHub stargazers count** ⭐. Each project includes a real-time badge linking directly to its repository stargazers page.
 
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
   - **License**: MIT 📜 | **Tech Stack**: Ruby on Rails, Vue.js, PostgreSQL, Redis 🛠️
   - **Description**: Leading open-source omnichannel customer engagement suite and live chat platform. Unifies conversations from website live chat, WhatsApp, Twitter/X, Facebook, Telegram, and Email into a single collaborative shared inbox. Features mobile apps (iOS & Android), agent automations, CSAT surveys, and custom webhook integrations.
   - **Best For**: Modern teams needing a true open-source alternative to Intercom, Crisp, or Zendesk Chat.
 
-- **[UVdesk Community](https://github.com/uvdesk/community-skeleton)** [![GitHub stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)
+- **[UVdesk Community](https://github.com/uvdesk/community-skeleton)** [![GitHub_Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)
   - **License**: OSL-3.0 📜 | **Tech Stack**: PHP, Symfony Framework, MySQL 🛠️
   - **Description**: Extensible open-source helpdesk ticketing system designed for multi-channel email piping and ticket workflows. Offers unlimited agents, unlimited tickets, team dispatch workflows, and knowledge base portals with customizable themes.
   - **Best For**: Small-to-medium teams looking for a reliable PHP-based helpdesk architecture with no licensing ceilings.
 
-- **[GLPI Project](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)
+- **[GLPI Project](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)
   - **License**: GPL-3.0 📜 | **Tech Stack**: PHP, MariaDB/MySQL, JavaScript 🛠️
   - **Description**: Comprehensive open-source IT Service Management (ITSM) and Service Desk platform compliant with ITIL best practices. Combines incident/request ticketing, problem tracking, change management, asset management (CMDB), and SLA escalation tracking.
   - **Best For**: Enterprise IT departments and universities needing mature ITIL helpdesk and asset lifecycle tracking.
 
-- **[Papercups](https://github.com/papercups-io/papercups)** [![GitHub stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)
+- **[Papercups](https://github.com/papercups-io/papercups)** [![GitHub_Stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)
   - **License**: MIT 📜 | **Tech Stack**: Elixir, Phoenix Framework, React, PostgreSQL 🛠️
   - **Description**: Developer-friendly open-source live customer messaging platform. Provides embeddable chat widgets for React, HTML, React Native, and Flutter, with direct Slack and Mattermost inbox synchronization.
   - **Best For**: Software startups and developer-centric teams that want to embed live support chat directly into their web/mobile apps.
 
-- **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
+- **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)
   - **License**: AGPL-3.0 📜 | **Tech Stack**: Ruby on Rails, PostgreSQL, Elasticsearch 🛠️
   - **Description**: Production-grade web-based customer support system and shared inbox. Features omnichannel integration (Email, Chat, Phone/CTI, Twitter, Facebook), real-time ticket updates (collision detection), fine-grained role-based permissions, SLA tracking, and audit logs.
   - **Best For**: Medium-to-large service desks wanting a slick, modern web UI with comprehensive telephone and social integration.
 
-- **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub stars](https://img.shields.io/github/stars/freescout-help-desk/freescout)](https://github.com/freescout-help-desk/freescout/stargazers)
+- **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout)](https://github.com/freescout-help-desk/freescout/stargazers)
   - **License**: AGPL-3.0 📜 | **Tech Stack**: PHP, Laravel, MySQL 🛠️
   - **Description**: Lightweight, self-hosted shared inbox and helpdesk written on Laravel. Serves as a 100% community-driven alternative to Help Scout and Zendesk with minimal resource footprints (runs easily on $5 VPS nodes). Supported by an extensive module ecosystem (LDAP, Telegram, WhatsApp, Knowledge Base).
   - **Best For**: Budget-conscious teams and agencies looking for a fast, clean email-first shared inbox.
 
-- **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)
+- **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)
   - **License**: GPL-2.0 📜 | **Tech Stack**: PHP, MySQL 🛠️
   - **Description**: Battle-tested, widely deployed open-source customer support ticketing engine. Seamlessly routes incoming email, phone, and web form inquiries into a unified web interface with custom ticket fields, ticket filtering rules, auto-responses, and staff collision prevention.
   - **Best For**: Organizations needing proven, straightforward ticket dispatching that runs on standard LAMP hosting environments.
 
-- **[Chaskiq](https://github.com/chaskiq/chaskiq)** [![GitHub stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers)
+- **[Chaskiq](https://github.com/chaskiq/chaskiq)** [![GitHub_Stars](https://img.shields.io/github/stars/chaskiq/chaskiq?style=social&color=white)](https://github.com/chaskiq/chaskiq/stargazers)
   - **License**: AGPL-3.0 📜 | **Tech Stack**: Ruby on Rails, React, PostgreSQL 🛠️
   - **Description**: Full-featured open-source conversational marketing and support automation platform. Combines live messenger widgets, proactive in-app customer tours, automated bot workflows, video calls, and email newsletters.
   - **Best For**: SaaS companies looking for an all-in-one Intercom replacement for onboarding, outbound messaging, and inbound customer care.
 
-- **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)
+- **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)
   - **License**: AGPL-3.0 📜 | **Tech Stack**: Python (Frappe Framework), Vue.js 3, MariaDB, Redis 🛠️
   - **Description**: Modern, open-source ticketing and customer service platform built on the Frappe framework. Features ticket assignment rules by workload/skills, SLA management with working hours, customer self-service portal, and seamless bi-directional integration with ERPNext.
   - **Best For**: Businesses already using Frappe/ERPNext who require unified customer data and zero per-seat licensing fees.
 
-- **[Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat)** [![GitHub stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=social&color=white)](https://github.com/LiveHelperChat/livehelperchat/stargazers)
+- **[Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat)** [![GitHub_Stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=social&color=white)](https://github.com/LiveHelperChat/livehelperchat/stargazers)
   - **License**: Apache-2.0 📜 | **Tech Stack**: PHP, MySQL, Node.js / React 🛠️
   - **Description**: Dedicated open-source live support chat application supporting desktop & mobile apps, Telegram, WhatsApp, Twilio, and Facebook Messenger. Includes voice/video calls, proactive automated triggers, canned responses, and bot builders.
   - **Best For**: Companies seeking standalone, ultra-reliable live chat customer support with custom bot integration capabilities.
 
-- **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)
+- **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub_Stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)
   - **License**: Apache-2.0 📜 | **Tech Stack**: Node.js, MongoDB, Elasticsearch 🛠️
   - **Description**: Clean, modern open-source helpdesk solution built on Node.js and MongoDB. Provides real-time notifications via WebSockets, ticket management, custom SLA definitions, and knowledge base documentation.
   - **Best For**: Developers and teams seeking a 100% JavaScript/Node.js tech stack for support ticketing.
 
-- **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)
+- **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub_Stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)
   - **License**: GPL-2.0 📜 | **Tech Stack**: Perl, PostgreSQL/MySQL 🛠️
   - **Description**: Veteran, industrial-strength ticketing engine used by Fortune 500 corporations, universities, and government agencies worldwide. Renowned for granular role-based per-queue permissions, asset tracking, full change auditing, and RESTful APIs.
   - **Best For**: High-security, enterprise, and IT operations teams requiring granular queue permissions and audit compliance.
 
-- **[OTOBO](https://github.com/RotherOSS/otobo)** [![GitHub stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers)
+- **[OTOBO](https://github.com/RotherOSS/otobo)** [![GitHub_Stars](https://img.shields.io/github/stars/RotherOSS/otobo?style=social&color=white)](https://github.com/RotherOSS/otobo/stargazers)
   - **License**: GPL-3.0 📜 | **Tech Stack**: Perl, MariaDB/MySQL/PostgreSQL, Docker 🛠️
   - **Description**: The official community fork of OTRS, carrying forward open-source IT Service Management. Includes free ITSM packages, a responsive customer self-service portal, LDAP/RADIUS authentication, and Docker-compose deployments.
   - **Best For**: IT departments and corporate service organizations looking for an active, cost-free OTRS ITSM alternative.
@@ -143,7 +143,7 @@ Contributions are warmly welcomed! 🌟 To add a new platform or update existing
 2. Create a new branch: `git checkout -b feature/add-new-platform`.
 3. Add or edit entries in [README.md](README.md) following the established format:
    - Provide verified, specific tier pricing (no ambiguous terms like "Custom" or "Usage-based").
-   - Include company scale or verified GitHub star badges.
+   - Include company scale or verified GitHub Stars_Badges.
    - Mention specific free tier limits and trial limits.
 4. Verify all markdown links and ensure tables render cleanly.
 5. Commit your changes: `git commit -m "Add [Platform Name] customer support tool"`.
